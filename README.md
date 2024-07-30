@@ -1,1 +1,1 @@
-# run-depcheck.sh
+# Script Dependency-check
